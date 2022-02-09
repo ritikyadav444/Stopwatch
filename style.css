@@ -1,0 +1,47 @@
+body {
+    background-color: darkslateblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    color: white;
+}
+
+.digit {
+    font-size: 140px;
+    font-weight: bold;
+}
+
+.txt {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.btn1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.btn {
+    padding: 18px 55px;
+    font-size: 35px;
+    margin: 0px 10px;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
+
+#start {
+    color: darkgreen;
+}
+
+#stop {
+    color: red;
+}
+
+#reset {
+    color: black;
+}
